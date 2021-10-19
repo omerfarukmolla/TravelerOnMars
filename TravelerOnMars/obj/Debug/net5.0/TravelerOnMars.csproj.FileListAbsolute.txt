@@ -1,0 +1,16 @@
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.exe
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.deps.json
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.runtimeconfig.json
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.runtimeconfig.dev.json
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.dll
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\ref\TravelerOnMars.dll
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\bin\Debug\net5.0\TravelerOnMars.pdb
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.csprojAssemblyReference.cache
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.AssemblyInfoInputs.cache
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.AssemblyInfo.cs
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.csproj.CoreCompileInputs.cache
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.dll
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\ref\TravelerOnMars.dll
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.pdb
+C:\Users\ali.osman\source\repos\TravelerOnMars\TravelerOnMars\obj\Debug\net5.0\TravelerOnMars.genruntimeconfig.cache
